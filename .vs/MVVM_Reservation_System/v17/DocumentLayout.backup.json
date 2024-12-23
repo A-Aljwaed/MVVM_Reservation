@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EC68C7-BF01-48A5-A6FE-8674821232E9}|MVVM_Reservation_System\\MVVM_Reservation_System.csproj|c:\\users\\ahmad\\source\\repos\\mvvm_reservation_system\\mvvm_reservation_system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1EC68C7-BF01-48A5-A6FE-8674821232E9}|MVVM_Reservation_System\\MVVM_Reservation_System.csproj|solutionrelative:mvvm_reservation_system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EC68C7-BF01-48A5-A6FE-8674821232E9}|MVVM_Reservation_System\\MVVM_Reservation_System.csproj|c:\\users\\ahmad\\source\\repos\\mvvm_reservation_system\\mvvm_reservation_system\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EC68C7-BF01-48A5-A6FE-8674821232E9}|MVVM_Reservation_System\\MVVM_Reservation_System.csproj|solutionrelative:mvvm_reservation_system\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EC68C7-BF01-48A5-A6FE-8674821232E9}|MVVM_Reservation_System\\MVVM_Reservation_System.csproj|c:\\users\\ahmad\\source\\repos\\mvvm_reservation_system\\mvvm_reservation_system\\views\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1EC68C7-BF01-48A5-A6FE-8674821232E9}|MVVM_Reservation_System\\MVVM_Reservation_System.csproj|solutionrelative:mvvm_reservation_system\\views\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EC68C7-BF01-48A5-A6FE-8674821232E9}|MVVM_Reservation_System\\MVVM_Reservation_System.csproj|c:\\users\\ahmad\\source\\repos\\mvvm_reservation_system\\mvvm_reservation_system\\views\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1EC68C7-BF01-48A5-A6FE-8674821232E9}|MVVM_Reservation_System\\MVVM_Reservation_System.csproj|solutionrelative:mvvm_reservation_system\\views\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EC68C7-BF01-48A5-A6FE-8674821232E9}|MVVM_Reservation_System\\MVVM_Reservation_System.csproj|c:\\users\\ahmad\\source\\repos\\mvvm_reservation_system\\mvvm_reservation_system\\views\\reservationlistingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EC68C7-BF01-48A5-A6FE-8674821232E9}|MVVM_Reservation_System\\MVVM_Reservation_System.csproj|solutionrelative:mvvm_reservation_system\\views\\reservationlistingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EC68C7-BF01-48A5-A6FE-8674821232E9}|MVVM_Reservation_System\\MVVM_Reservation_System.csproj|c:\\users\\ahmad\\source\\repos\\mvvm_reservation_system\\mvvm_reservation_system\\views\\makereservationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EC68C7-BF01-48A5-A6FE-8674821232E9}|MVVM_Reservation_System\\MVVM_Reservation_System.csproj|solutionrelative:mvvm_reservation_system\\views\\makereservationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationListingView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\views\\ReservationListingView.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM_Reservation_System\\views\\ReservationListingView.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\views\\ReservationListingView.xaml.cs",
+              "RelativeToolTip": "MVVM_Reservation_System\\views\\ReservationListingView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:15:26.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MakeReservationView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\views\\MakeReservationView.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM_Reservation_System\\views\\MakeReservationView.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\views\\MakeReservationView.xaml.cs",
+              "RelativeToolTip": "MVVM_Reservation_System\\views\\MakeReservationView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:15:20.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationListingView.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\views\\ReservationListingView.xaml",
+              "RelativeDocumentMoniker": "MVVM_Reservation_System\\views\\ReservationListingView.xaml",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\views\\ReservationListingView.xaml",
+              "RelativeToolTip": "MVVM_Reservation_System\\views\\ReservationListingView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T11:10:07.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MakeReservationView.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\views\\MakeReservationView.xaml",
+              "RelativeDocumentMoniker": "MVVM_Reservation_System\\views\\MakeReservationView.xaml",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\views\\MakeReservationView.xaml",
+              "RelativeToolTip": "MVVM_Reservation_System\\views\\MakeReservationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T11:09:14.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVM_Reservation_System\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\MainWindow.xaml",
+              "RelativeToolTip": "MVVM_Reservation_System\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T09:12:38.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM_Reservation_System\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\App.xaml.cs",
+              "RelativeToolTip": "MVVM_Reservation_System\\App.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:14:12.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

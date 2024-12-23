@@ -1,0 +1,7 @@
+C:\Users\ahmad\source\repos\MVVM_Reservation_System\MVVM_Reservation_System\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ahmad\source\repos\MVVM_Reservation_System\MVVM_Reservation_System\obj\Debug\net8.0-windows\Views\MakeReservationView.g.cs
+C:\Users\ahmad\source\repos\MVVM_Reservation_System\MVVM_Reservation_System\obj\Debug\net8.0-windows\Views\ReservationListingView.g.cs
+C:\Users\ahmad\source\repos\MVVM_Reservation_System\MVVM_Reservation_System\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ahmad\source\repos\MVVM_Reservation_System\MVVM_Reservation_System\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ahmad\source\repos\MVVM_Reservation_System\MVVM_Reservation_System\obj\Debug\net8.0-windows\MVVM_Reservation_System_MarkupCompile.cache
+C:\Users\ahmad\source\repos\MVVM_Reservation_System\MVVM_Reservation_System\obj\Debug\net8.0-windows\MVVM_Reservation_System_MarkupCompile.lref
