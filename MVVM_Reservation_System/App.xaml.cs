@@ -12,7 +12,7 @@ namespace MVVM_Reservation_System
     /// </summary>
     public partial class App : Application
     {
-        protected override OnStartup(StartupEventArgs e)
+        protected override void OnStartup(StartupEventArgs e)
         {
             Hotel hotel = new Hotel("fiveStars");
 

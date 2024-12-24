@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\MVVM_Reservation_System.csproj": {}
+    "C:\\Users\\ahmad\\RiderProjects\\MVVM_Reservation\\MVVM_Reservation_System\\MVVM_Reservation_System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\MVVM_Reservation_System.csproj": {
+    "C:\\Users\\ahmad\\RiderProjects\\MVVM_Reservation\\MVVM_Reservation_System\\MVVM_Reservation_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\MVVM_Reservation_System.csproj",
+        "projectUniqueName": "C:\\Users\\ahmad\\RiderProjects\\MVVM_Reservation\\MVVM_Reservation_System\\MVVM_Reservation_System.csproj",
         "projectName": "MVVM_Reservation_System",
-        "projectPath": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\MVVM_Reservation_System.csproj",
+        "projectPath": "C:\\Users\\ahmad\\RiderProjects\\MVVM_Reservation\\MVVM_Reservation_System\\MVVM_Reservation_System.csproj",
         "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmad\\source\\repos\\MVVM_Reservation_System\\MVVM_Reservation_System\\obj\\",
+        "outputPath": "C:\\Users\\ahmad\\RiderProjects\\MVVM_Reservation\\MVVM_Reservation_System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",

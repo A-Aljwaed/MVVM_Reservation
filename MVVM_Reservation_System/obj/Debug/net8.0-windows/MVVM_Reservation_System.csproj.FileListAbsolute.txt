@@ -5,3 +5,9 @@ C:\Users\ahmad\source\repos\MVVM_Reservation_System\MVVM_Reservation_System\obj\
 C:\Users\ahmad\source\repos\MVVM_Reservation_System\MVVM_Reservation_System\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\ahmad\source\repos\MVVM_Reservation_System\MVVM_Reservation_System\obj\Debug\net8.0-windows\MVVM_Reservation_System_MarkupCompile.cache
 C:\Users\ahmad\source\repos\MVVM_Reservation_System\MVVM_Reservation_System\obj\Debug\net8.0-windows\MVVM_Reservation_System_MarkupCompile.lref
+C:\Users\ahmad\RiderProjects\MVVM_Reservation\MVVM_Reservation_System\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ahmad\RiderProjects\MVVM_Reservation\MVVM_Reservation_System\obj\Debug\net8.0-windows\views\ReservationListingView.g.cs
+C:\Users\ahmad\RiderProjects\MVVM_Reservation\MVVM_Reservation_System\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ahmad\RiderProjects\MVVM_Reservation\MVVM_Reservation_System\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ahmad\RiderProjects\MVVM_Reservation\MVVM_Reservation_System\obj\Debug\net8.0-windows\MVVM_Reservation_System_MarkupCompile.cache
+C:\Users\ahmad\RiderProjects\MVVM_Reservation\MVVM_Reservation_System\obj\Debug\net8.0-windows\MVVM_Reservation_System_MarkupCompile.lref

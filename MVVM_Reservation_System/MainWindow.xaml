@@ -3,12 +3,13 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:MVVM_Reservation_System" xmlns:Views="clr-namespace:MVVM_Reservation_System.Views"
+        xmlns:local="clr-namespace:MVVM_Reservation_System" xmlns:Views="clr-namespace:MVVM_Reservation_System.views"
+        xmlns:views="clr-namespace:MVVM_Reservation_System.views"
         mc:Ignorable="d"
         Title="Reservierung" Height="450" Width="800">
     
     <Grid>
-          <Make
+          <views:MakeReservationView></views:MakeReservationView>
 
     </Grid>
 </Window>
